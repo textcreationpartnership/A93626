@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Phillip Herbert, late Earle of Pembrook and Montgomery, in the House of Commons, upon passing an act for a day of thanks-giving, for Colonel Jone's victory over the Irish; as it was delivered word for word, and oath for oath. / Taken verbatim by Michael Oldsworth.</title>
+            <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93626</idno>
+            <idno type="STC">Wing S4863A</idno>
+            <idno type="STC">Thomason E571_25</idno>
+            <idno type="STC">ESTC R206127</idno>
+            <idno type="EEBO-CITATION">99865306</idno>
+            <idno type="PROQUEST">99865306</idno>
+            <idno type="VID">165359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165359)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Phillip Herbert, late Earle of Pembrook and Montgomery, in the House of Commons, upon passing an act for a day of thanks-giving, for Colonel Jone's victory over the Irish; as it was delivered word for word, and oath for oath. / Taken verbatim by Michael Oldsworth.</title>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+                  <author>Oldisworth, Michael, 1591-1654?, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Not in fact by Pembroke or Oldisworth. -- Cf. DNB: vol. 9, p. 661; vol. 14, p. 1008.</note>
+                  <note>Annotation on Thomason copy: "August: 27.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Michael, d. 1649.</term>
+               <term>Royalists --  England --  17th century.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165359:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF PHILIP HERBERT, LATE EARLE OF <hi>Pembrook</hi> and <hi>Montgomery,</hi> in the Houſe of <hi>Commons,</hi> upon paſſing an Act for a Day of THANKS-GIVING, For Colonel <hi>Jone</hi>'s VICTORY over the <hi>IRISH;</hi> As it was delivered Word for Word, and Oath for Oath.</p>
+            <p>Taken verbatim by <hi>Michael Oldſworth.</hi>
+            </p>
+            <p>London, Printed in the Yeer, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:165359:2"/>
+            <pb n="3" facs="tcp:165359:2"/>
+            <head>
+               <hi>The</hi> Speech <hi>of</hi> Philip Herbert, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>M. Speaker,</salute>
+            </opener>
+            <p>YOu know it is not my cuſtome to make Speeches; S'death I am an old man, and cannot speak, I can ſit here a whole day to<g ref="char:EOLhyphen"/>gether and not ſpeak a word, except it be cry <hi>Ay</hi> and <hi>No,</hi> when Maſter <hi>Weaver</hi> winks upon me: but S'death ſuch a Victory would make a dumb man ſpeak; for <hi>Michael Oldſworth</hi> ſayes, that Co<g ref="char:EOLhyphen"/>lonel <hi>Jones</hi> has routed <hi>Ormond,</hi> and killed four thouſand of his men; and doth not ſuch a victory deſerve a thankſgiving: You now Mr. Speaker <hi>Cromwel</hi> made us vote a day of thankſgiving for killing the <hi>Levellers,</hi> and ſhall not we make our ſelves Vote a day of Thankſgiving for killing the <hi>Cavaliers;</hi> Z'blood are not the <hi>Cavaliers</hi> as bad as <hi>Levellers?</hi> M. <hi>Mar<g ref="char:EOLhyphen"/>tin</hi> ſayes <hi>Cavaliers</hi> are worſe then <hi>Levellers</hi> (but I hope M. Martin is no <hi>Leveller</hi>) and I ſay ſo too; for if <hi>Levellers</hi> had got the Victory, they would have had no King; but if the <hi>Cavaliers</hi> ſhould overcome us, S'death our Parliament would grow out of date, and Kings and Laws would come in faſhion again; and Miſtris <hi>May</hi> ſays, that if Kings and Laws ſhould up, no Member of Parliament may lye with any other woman but his own Wife, which Law Maſter <hi>Martin</hi> ſayes is againſt the Priviledge of Parli<g ref="char:EOLhyphen"/>ament, and contrary to the Liberty of the Subject; 'Zounds Maſter <hi>Speaker</hi> let's maintaine our own Priviledges, why the Devil do we fight elſe?</p>
+            <p>Colonel <hi>Ven,</hi> and Maſter <hi>Aſh</hi> move that an Act be paſſed for the better obſervation of this day; S'death I agree, and withall my humble motion is, that my friend Maſter <hi>Vicars</hi> may draw it up, for he is a learned man, and full of Scripture, and can fill the Act full of Scripture which will be a great grace to the Members: ('Zblood I am a Member I think, and love Scripture, although I neither uſe nor underſtand it) beſides without an Act the Presbyterians will never meddle with it; for they begin to ſwell already, as though they had an intent if they durſt or could tell how to turn Levellers, and level us to make a ſtep for themſelves to mount into the Saddle; but I hope M. Speaker, we ſhall not be meat for the Presbyterians;
+<pb n="4" facs="tcp:165359:3"/>Judge me Presbyterians are as bad, or worſe then Malignants, for ſhould the Presbyterians rule, they would bring Maſter <hi>Scot</hi> upon the ſtool of re<g ref="char:EOLhyphen"/>pentance for raviſhing the Gentlemans little daughter of 12 yeers old the other day: Damme me Maſter Speaker, the Caſe is dangerous, I beſeech you let us maintaine our priviledges.</p>
+            <p>But Confound me here are ſome amongſt us that look like Presbyteri<g ref="char:EOLhyphen"/>ans, nevertheleſſe I hope whether they be Presbyterians or not Presbyteri<g ref="char:EOLhyphen"/>ans, the Gentlemen will not be angry with me for ſpeaking my, conſci<g ref="char:EOLhyphen"/>ence; what? though they have ſequeſtred and plundered Malignants for their conſciences, yet I hope they will not make a Malignant of me. S'death Malignant is a hard word, I never underſtood it before this Parli<g ref="char:EOLhyphen"/>ament, what? cannot a man ſpeak his conſcience but he muſt be made a Malignant? Judge me we ſhall have a through Reformation indeed, if a mans conſcience muſt make him a malignant; but ſo it is, for ſince this Reformation, when I ſate in the Houſe of Lords, and ſpake my conſcience as did others in Voting for the King: I was made a malignant, and ſince many members of the Houſe of Commons for ſpeaking their conſcience and Voting againſt the Army, were by the Army made malignants, and pull'd out of the Houſe and thruſt into hell by Colonel <hi>Pride:</hi> 'Zblood I have as little conſcience as moſt, I ſcarce know what it is; but be it what it will I ſwear 'tis a malignant, but confound me I care not, I am a member of Colonel <hi>Prides</hi> Parliament, and I hope a member of Colonel <hi>Prides</hi> Parliament may ſpeake his conſcience, and not be made a malig<g ref="char:EOLhyphen"/>nant; Come, come, Maſter Speaker let us be loving and kind one unto another, we are but a few members left, let us agree and Vote luſtily for a thankſgiving day. 'Sdeath the victory deſerves it, and if we Vote but the day, I am ſure there ſits Alderman <hi>Atkins</hi> Worſhip will make the Common-councel Vote us a dinner.</p>
+            <p>But perhaps ſome may ſpeake againſt it, and ſay we are beholding to them for the laſt; but if they do, I ſay they are malignants, and lye; 'tis they are beholding to us: yet tis confeſt they gave us a dinner, and feaſted us with Veniſon; but what of that, they gave us a dinner, and we gave them a <hi>Parke;</hi> then Judge you <hi>Master Speaker</hi> whether is better the Ve<g ref="char:EOLhyphen"/>niſon or the <hi>Kings Parke</hi> that nouriſheth the Veniſon; againe, others may ſay that the Generall is beholding to them for his Baſon and Ewer, and the Lieutenant Generall for his Purſe of Gold; but I ſay no, for the Gentlemen deſerved it: 'Sdeath have we not voted and made Acts for them theſe ſeven or eight yeers, and the Generall and Lieutenant Gene<g ref="char:EOLhyphen"/>rall fought for them, and killed <hi>Levellers, Malignants</hi> and <hi>Cavaliers</hi> to keep them ſafe, and now doe not we deſerve a dinner, and the Generall a
+<pb n="5" facs="tcp:165359:3"/>Baſon and Ewer, and the Lieutenant Generall a little Purſe of rotten Gold? 's blood ſhall men vote and fight for nothing.</p>
+            <p>Maſter <hi>Speaker,</hi> I am an old man, and you are an old Speaker, We are the <hi>Supream Authority,</hi> the <hi>Repreſentative</hi> of the People, and you are our Repreſentative, therefore (that we ſit not all day quarrelling about a thanksgiving) my humble motion is, that as the People leave all matters of conſequence to be decided by us their <hi>Repreſentative,</hi> ſo may we Mr. <hi>Speaker</hi> to your ſelf our <hi>Repreſentative.</hi> We are the body and Mr. <hi>Speaker</hi> is the head, therefore let the head ſpeak for the bo<g ref="char:EOLhyphen"/>dy, and if Mr. <hi>Speaker</hi> think this Victory deſerve not a thanksgiving let him ſay ſo, and if he thinke it doth, let him Vote it, and then as I ſaid before, if we Vote a thanksgiving, the City will vote a dinner; for Mr. <hi>Speaker</hi> what is a Victory without a thanksgiving, and what is a thanks<g ref="char:EOLhyphen"/>giving without a dinner? 's death, I ſay, no dinner no thanksgiving.</p>
+            <p>Mr. <hi>Speaker,</hi> Here are ſome would have us vote Col. <hi>Jones</hi> a 1000 <hi>l. per annum,</hi> and if I may ſpeak my Conſcience without being made a Malignant, I thinke he deſerves it, for he hath ſaved us out of the hands of our enemies, and redeemed the Cities Iriſh lands; ſo you ſee that <hi>Jones</hi> is both a Saviour and a Redeemer, and Mr. <hi>Speaker</hi> by this you ſee it is not as Malignants ſpeak; for they ſay we and our Armies vote and fight only for our own ends and profits; but they lie, and the <hi>Su<g ref="char:EOLhyphen"/>pream Authority</hi> will ſay they lie; 's blood we fight for the goods of the Nation, and the Liberties of the Subjects.</p>
+            <p>Colonel <hi>Jones</hi> is the joy of our hearts, he hath fild our hearts with joy and gladneſſe, I ſay 1000 <hi>l. per annum</hi> is too little for him; 's death is not <hi>Jones</hi> the ſaviour of the three Kingdomes, and can we doe too much for our ſaviour? Indeed of old the Lieutenant Generall was our ſaviour, and delivered us out of the jawes of the Lyons, and Bears, the Levellers, and wicked Malignants, and had been ſo now, if the Ci<g ref="char:EOLhyphen"/>tizens would have lent a hundred and fifty thouſand pounds ſpeedily and willingly: but judge me, if <hi>Ireland</hi> had been loſt, the Citizens had been all Malignant, becauſe they would not disburſe (as they ſaid) with<g ref="char:EOLhyphen"/>out ſecurity; yet I think we offered them the greateſt ſecurity in the world, the faith of a Parliament, and a Parliament the Levellers ſay is the Supream Authority, or the Repreſentative of the People, and ſo ſay we; why did we pull down Kings and Lords elſe; then if a Parlia<g ref="char:EOLhyphen"/>ment be ſupream, their faith is ſupream, eſpecially the faith of Col. <hi>Prides</hi> Parliament, 's death is not the ſupream faith worth an hundred and fifty thouſand pounds? But Mr. <hi>Speaker</hi> as Colonel <hi>Jones</hi> is our
+<pb n="6" facs="tcp:165359:4"/>ſaviour, ſo he is the Cities ſaviour, and the Merchant adventurers ſavi<g ref="char:EOLhyphen"/>our, for he hath ſaved their Iriſh lands, which was like to have proved meat for Malignants and Presbyterians, for damme. I think Malignants and Presbyterians are all one, for <hi>Ormond</hi> is a Malignant, and <hi>Inchequeen</hi> is a Presbyterian, and both fight againſt us: And Mr. <hi>Scot</hi> ſayes, That whoſoever fights againſt us the Supream power is a Malignant; then judge you are not Presbyterians Malignants? the <hi>Scots</hi> are Presby<g ref="char:EOLhyphen"/>terians, and they declare againſt Malignants and againſt us, and will fight againſt us, then are not our brethren the Scots Malignants?</p>
+            <p>But the Cavaliers think to make us Malignants for they ſay we are not the Supream, but the King is the ſupream Authority; but I ſay they lye, 'tis we are the Supream Authority; 's blood did not the Army make us ſo, and did not we cut off the Kings head that we might con<g ref="char:EOLhyphen"/>tinue ſo, and now ſhall not we be the Supream Authority? 's death I hope the Army that made us will keep us, why the Devil do wee keep them elſe? what? ſhall we vote early and late, and make Acts and Or<g ref="char:EOLhyphen"/>ders to keep them, and then will not they keep us? But Mr. <hi>Speaker</hi> let not our heart faint, let us not be faithleſſe but beleeving, for with<g ref="char:EOLhyphen"/>out doubt they that made us will preſerve us; and damme what a ſhame would it be not to confide in our Keepers, beſides, if we ſhould grow jealous of the Keepers of our Liberties, the People would grow jea<g ref="char:EOLhyphen"/>lous of us the Keepers of theirs; for doth not the Army keep our Liber<g ref="char:EOLhyphen"/>ties, and we keep the Peoples?</p>
+            <p>The Cavaliers and Malignants ſay, that we and our Armies are Rebels; but hang them, they lie: we the Supreme Authority ſay, the Cavaliers are rebels, and the ſupreme Authority cannot lie: no, nor the ſupreme Faith neither, although the faithleſſe Citizens would not take it for an hundred thouſand pounds: but I hope they have faith enough to beleeve that <hi>Jones</hi> hath routed <hi>Ormond,</hi> and recovered the Iriſh Lands; 's death, we may go whiſtle for a dinner elſe: What? is not <hi>Jones</hi> their ſaviour, and the ſaviour of us all? and will not men believe their ſaviour? Sink me, had <hi>Ormond</hi> taken Dublin, we might have voted theſe ſeven or eight a yeers for ought I know, before we could either have voted the Kingdom a Thankſgiving day, or the City have voted us a dinner. <hi>Lilburn, Walwyn, Prince,</hi> and the Levellers, ſay that we are Tyrants; but we the ſupreme Authority ſay, that they are Traytors, and would be Tyrants themſelves if they could tell how: 's Blood, Levellers are worſe then Kings for they would have us give an account of all moneys we have received theſe eight or nine yeers. What? I thought wee had been the ſupreme Au<g ref="char:EOLhyphen"/>thority,
+<pb n="7" facs="tcp:165359:4"/>and muſt the ſupreme Authority be called to recount by Level<g ref="char:EOLhyphen"/>lers? 's Death, If we give them an account, are not they the ſupreme Authority? But I hope, Mr. Speaker, you, nor no other member of this honourable Houſe is ſo mad as to account to Levellers, nor any elſe. 's Blood, the ſupreme Authority give an account! Oh, high Treaſon! the Levellers are Traytors, the very word <hi>Give an account</hi> proves them ſo. What, is not (<hi>Lilburn</hi> a priſoner? and ſhall priſoners have leave to prate? But what is a Leveller? it is a hard word, I ſcarce underſtand it: or what is <hi>Lilburn, Prince,</hi> and <hi>Walwyn?</hi> is not <hi>Prince</hi> a Cheeſ-monger? 's Death, I hope a Parliament ſhall not be food for Cheeſ-mongers. But M. Speaker, we did ill, that we did not make <hi>Lilburn</hi> an Independent; we ſhould have ſerved him as we ſerved <hi>Harry Martin,</hi> and given him a thouſand pounds <hi>per Annum,</hi> and he would have been a ſtrong Inde<g ref="char:EOLhyphen"/>pendent: for was not <hi>Harry Martin</hi> a Leveller? and did not we give him a thouſand pound <hi>per annum</hi> to convert him? and is he not now as great an Independent as any of us all?</p>
+            <p>Mr Speaker, here are ſome which move that Mr <hi>Greenhil</hi> and Mr <hi>Cooper</hi> may preach before the Houſe upon the glorious day of Thankſ<g ref="char:EOLhyphen"/>giving: to which I give conſent: I love Mr <hi>Greenhill,</hi> and I love preach<g ref="char:EOLhyphen"/>ing: 's death, I love a good preacher as I love a good dogg, and I love a good dog as I love Miſtris <hi>May,</hi> and I love Miſtris <hi>May</hi> as I love my life. I love Mr <hi>Greenhil</hi> becauſe he is an Independent, and I love preach<g ref="char:EOLhyphen"/>ing although I cannot underſtand it: 's bloud, cannot a man love preaching but that he muſt underſtand it? I love Mr <hi>Cooper,</hi> becauſe he prayes for the ſupreme Authority. Sink me, I love praying, although I cannot pray my ſelf: and I love my Man <hi>Michael Oldſworth,</hi> becauſe he is my mouth, and prays for me: and I hope no man will be angry with me for loving my own mouth.</p>
+            <p>Alſo I love Colonel <hi>Jones,</hi> becauſe he is the author of this Thankſgi<g ref="char:EOLhyphen"/>ving, and becauſe he hath delivered us, and ſaved us from the hands of Cavaliers; and I hope any man may love his Saviour: and I think the City hath cauſe to love him, and reward him, for ſaving their Iriſh lands, or elſe they are ungratefull people. Dam mee, they could give the Ge<g ref="char:EOLhyphen"/>nerall a Baſon and Ewer for killing the Levellers; and will they not give <hi>Jones</hi> a Baſon and Ewer for killing the Cavaliers? What, are not Cava<g ref="char:EOLhyphen"/>liers as bad as Levellers? or will the City give their lands to Malignants? or do they not beleeve Colonel <hi>Jones</hi> his Letter? Zounds, if their hearts are hardened, let Major Generall <hi>Skippon</hi> be ſent to them to increaſe their
+<pb n="8" facs="tcp:165359:5"/>faith, for he had Letter, and will ſwear 'tis true. What, ſhall the Ge<g ref="char:EOLhyphen"/>nerall, and the Lieutenant Gen. the old ſaviours of the three Kingdoms, have a Baſon and Ewer, and a bag of Gold, for killing three or four Le<g ref="char:EOLhyphen"/>vellers? and ſhall not <hi>Jones,</hi> our new ſaviour, have a Baſon and Ewer for killing three or four thouſand Cavaliers? But, Sink me, Mr Speaker, I am an old man, and muſt conclude: I deſire you to conſider ſeriouſly of what I have ſaid; for this, (for ought I know) ſhall be the laſt Speech you ſhall ever hear me make; but I am an old man, and muſt conclude.</p>
+            <closer>
+               <signed>Your Honours Servant, <hi>PHILIP HERBERT,</hi> Knight of Berk-ſhire.</signed>
+            </closer>
+            <postscript>
+               <p>Copia vera.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
